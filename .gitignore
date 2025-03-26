@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+.idea
+*.pyc
+*.pyo
+*.pyd
+chinese-clip-vit-base-patch16
+text2vec-base-chinese-paraphrase
+.env
+vector_db
